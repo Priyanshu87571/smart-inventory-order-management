@@ -1,4 +1,4 @@
-# MERN Stack Order and Inventory Management Application
+# Order and Inventory Management Application
 
 This project is an order and inventory management application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It features user authentication, product management, order processing, inventory management, and statistics generation functionalities.
 
