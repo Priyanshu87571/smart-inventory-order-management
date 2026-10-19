@@ -217,7 +217,7 @@ The frontend is developed using React.js. It provides a user interface for inter
     1. React
     2. Vite
     3. Tailwind CSS
-    4. Redux Toolkit (RTK)
+    4. Redux Toolkit
     5. React-Router
 
 ## API Documentation
